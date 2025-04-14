@@ -10,23 +10,23 @@ def generate_commentary(prompt_text):
         model="gpt-4",
         messages=[{"role": "user", "content": prompt_text}],
         temperature=0.7,
-        max_tokens=250
+        max_tokens=300
     )
     return response.choices[0].message.content.strip()
 
 def should_critique(doctrine_text):
     review_prompt = f"""
-You are a theological reviewer.
-Does the following Catholic doctrine contain anything logically inconsistent, unbiblical, or questionable compared to Scripture?
+You are reviewing a Catholic doctrine for critique.
+Say "yes" only if the doctrine contradicts the Bible, is based on man-made tradition, or lacks scriptural basis.
+Otherwise, say "no".
 
 Doctrine: "{doctrine_text}"
-
-Answer only "yes" or "no".
+Answer with only yes or no.
 """
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[{"role": "user", "content": review_prompt}],
         temperature=0,
-        max_tokens=2
+        max_tokens=3
     )
     return response.choices[0].message.content.strip().lower() == "yes"

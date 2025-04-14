@@ -7,7 +7,7 @@ from discord.ext import tasks
 from dotenv import load_dotenv
 from openai_handler import generate_commentary, should_critique
 
-# Load config
+# Load env variables
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 CHANNEL_ID = int(os.getenv("CHANNEL_ID"))
@@ -29,60 +29,74 @@ def save_skipped_ids(skipped_ids):
 
 @client.event
 async def on_ready():
-    print(f'✅ Logged in as {client.user}')
+    print(f"✅ Logged in as {client.user}")
     post_catholic.start()
 
 @tasks.loop(hours=POST_INTERVAL_HOURS)
 async def post_catholic():
     with open("catholic.json", "r", encoding="utf-8") as f:
-        doctrines = json.load(f)
+        data = json.load(f)
+        doctrines = data["doctrines"] if isinstance(data, dict) else data
 
     skipped_ids = load_skipped_ids()
     doctrine = None
 
-    for _ in range(50):
+    for _ in range(50):  # Max 50 tries to find a doctrine worth critiquing
         candidate = random.choice(doctrines)
-        doctrine_id = candidate["id"]
+        doctrine_id = candidate.get("id")
         if doctrine_id in skipped_ids:
             continue
 
-        summary = candidate["text"]
-        if should_critique(summary):
-            doctrine = candidate
-            break
-        else:
-            print(f"⏩ Skipped Doctrine #{doctrine_id}")
+        summary = candidate.get("text", "")
+        print(f"🧪 Reviewing Doctrine #{doctrine_id}: {summary[:80]}...")
+
+        try:
+            if should_critique(summary):
+                doctrine = candidate
+                print(f"✅ Critique-worthy: Doctrine #{doctrine_id}")
+                break
+            else:
+                print(f"⏩ Skipped Doctrine #{doctrine_id}")
+                skipped_ids.add(doctrine_id)
+        except Exception as e:
+            print(f"❌ Error checking doctrine #{doctrine_id}: {e}")
             skipped_ids.add(doctrine_id)
 
     save_skipped_ids(skipped_ids)
 
     if not doctrine:
-        print("❌ No critique-worthy doctrine found.")
-        return
+        print("⚠️ No flagged doctrines found, posting a random one.")
+        doctrine = random.choice(doctrines)
 
-    doctrine_id = doctrine["id"]
-    title = doctrine["title"]
-    text = doctrine["text"]
-    evidence = doctrine["evidence"][0]["quote"]
-    source = doctrine["evidence"][0]["source"]
+    doctrine_id = doctrine.get("id")
+    title = doctrine.get("title", "Untitled")
+    text = doctrine.get("text", "")
+    evidence_data = doctrine.get("evidence", [{}])[0]
+    source = evidence_data.get("source", "Unknown Source")
+    quote = evidence_data.get("quote", "No citation found.")
 
+    # 🧠 Build prompt for OpenAI
     prompt = f"""
-You are critiquing Catholic doctrine using logic and Scripture.
-Point out what is inconsistent, man-made, or theologically troubling about this doctrine.
-Be sharp, brief (5 sentences), and end with a rhetorical question.
-Then, contrast it with a short example of truth from Scripture.
-Finally, suggest why trusting Christ directly is more reasonable.
+You are a biblical scholar critiquing Catholic doctrine.
+Find flaws, contradictions with the Bible, or theological issues.
+Explain clearly in 4–6 sentences. Use logic and reference Scripture.
+End with a rhetorical or thought-provoking question. Then provide one-sentence contrast showing clarity in biblical truth through Christ.
 
 Doctrine #{doctrine_id}: "{title}"
 Summary: "{text}"
-Catholic Source: "{source}"
-Quote: "{evidence}"
+Source: "{source}"
+Quote: "{quote}"
 """
 
-    commentary = generate_commentary(prompt)
+    # 🧠 Get critique
+    try:
+        commentary = generate_commentary(prompt)
+    except Exception as e:
+        commentary = f"⚠️ OpenAI error: {e}"
 
-    doctrine_msg = f"📜 **Doctrine #{doctrine_id}: {title}**\n\n\"{text}\"\n\n📖 *{source}*:\n> {evidence}"
-    commentary_msg = f"🧠 **Commentary:**\n{commentary}"
+    # 📬 Compose message
+    doctrine_msg = f"📜 **Doctrine #{doctrine_id}: {title}**\n\n\"{text}\"\n\n📖 *{source}*:\n> {quote}"
+    commentary_msg = f"@everyone\n🧠 **Commentary:**\n{commentary}"
 
     channel = client.get_channel(CHANNEL_ID)
     await channel.send(doctrine_msg[:2000])
