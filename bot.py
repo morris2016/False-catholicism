@@ -37,7 +37,7 @@ async def on_ready():
 
 @tasks.loop(hours=POST_INTERVAL_HOURS)
 async def post_catholic():
-    with open("catholic.json", "r", encoding="utf-8") as f:
+    with open("Catholic.json", "r", encoding="utf-8") as f:
         data = json.load(f)
         doctrines = data["doctrines"] if isinstance(data, dict) else data
 
