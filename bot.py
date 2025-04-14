@@ -99,7 +99,7 @@ Quote: "{quote}"
 
     # 📬 Compose message
     doctrine_msg = f"📜 **Doctrine #{doctrine_id}: {title}**\n\n\"{text}\"\n\n📖 *{source}*:\n> {quote}"
-    commentary_msg = f"@everyone\n🧠 **Commentary:**\n{commentary}"
+    commentary_msg = f"--------------------------------------------------------------------\n   Heresy Detector detecting....\n----------------------------------------------------------------------\n🧠 **Commentary:**\n{commentary}"
 
     channel = client.get_channel(CHANNEL_ID)
     await channel.send(doctrine_msg[:2000])
