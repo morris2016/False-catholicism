@@ -48,7 +48,7 @@ async def post_hadith():
 You are analyzing the most logically absurd or ironic part of this hadith. 
 Focus only on what makes it unbelievable, bizarre, or comical from a theological or rational perspective. 
 Keep your commentary sharp, brief, and clever (max 5 sentences). End with a rhetorical question that exposes the flaw.
-Then give a 1-sentence contrast showing how God's revelation was clearer or more direct through previous prophets.
+Then give a contrast showing how God's revelation was clearer or more direct through previous prophets or what prophets said on the contrary.
 In two sentences, contrast it with a reason why they should believe in Jesus Christ.
 
 Hadith #{number} – Narrated {narrator}:
