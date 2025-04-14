@@ -92,7 +92,7 @@ Hadith #{number} – Narrated {narrator}:
 
     # Prepare message
     hadith_message = f"📜 **Hadith #{number} – Narrated {narrator}:**\n\n{text}"
-    commentary_message = f"🧠 **Commentary:**\n{commentary}"
+    commentary_message = f"@everyone\n🧠 **Commentary:**\n{commentary}"
 
     if len(hadith_message) > 2000:
         hadith_message = hadith_message[:1997] + "..."
