@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 1,
+    "title": "Papal Infallibility",
+    "text": "The Pope is incapable of error when speaking ex cathedra on matters of faith and morals.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "Catechism of the Catholic Church #891",
+        "quote": "The Roman Pontiff... enjoys this infallibility in virtue of his office, when... he proclaims by a definitive act a doctrine pertaining to faith or morals."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Galatians 2:11",
+        "quote": "But when Peter came to Antioch, I opposed him to his face, because he was clearly in the wrong."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Immaculate Conception",
+    "text": "Mary, the mother of Jesus, was conceived without original sin.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "CCC #491",
+        "quote": "The most Blessed Virgin Mary was, from the first moment of her conception... kept free from all stain of original sin."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 3:23",
+        "quote": "For all have sinned and fall short of the glory of God."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Assumption of Mary",
+    "text": "Mary was assumed body and soul into heaven at the end of her earthly life.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "CCC #966",
+        "quote": "The Immaculate Virgin... was taken up body and soul into heavenly glory, and exalted by the Lord as Queen over all things."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Corinthians 15:22–23",
+        "quote": "For as in Adam all die, so in Christ all will be made alive. But each in turn: Christ, the firstfruits; then, when he comes, those who belong to him."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Purgatory",
+    "text": "A place or state of purification for souls before entering heaven.",
+    "category": "Afterlife",
+    "evidence": [
+      {
+        "source": "CCC #1030",
+        "quote": "All who die in God’s grace and friendship, but still imperfectly purified... undergo purification."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 9:27",
+        "quote": "It is appointed unto men once to die, but after this the judgment."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Transubstantiation",
+    "text": "During the Eucharist, the bread and wine become the actual body and blood of Jesus Christ.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1376",
+        "quote": "By the consecration... a change of the whole substance of the bread into the substance of the Body of Christ our Lord takes place."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 10:10",
+        "quote": "We have been made holy through the sacrifice of the body of Jesus Christ once for all."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Baptismal Regeneration",
+    "text": "Baptism is necessary for salvation and causes spiritual rebirth.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1213",
+        "quote": "Through Baptism we are freed from sin and reborn as sons of God."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ephesians 2:8-9",
+        "quote": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works..."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Prayers to Saints",
+    "text": "Believers can request intercession from saints who are alive in heaven.",
+    "category": "Intercession",
+    "evidence": [
+      {
+        "source": "CCC #956",
+        "quote": "Their intercession is their most exalted service to God's plan. We can and should ask them to intercede for us and for the whole world."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Timothy 2:5",
+        "quote": "For there is one God and one mediator between God and mankind, the man Christ Jesus."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Rosary",
+    "text": "A devotional prayer centered around meditating on the life of Christ, often focused on Mary.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Rosarium Virginis Mariae, Pope John Paul II (2002)",
+        "quote": "The Rosary, though clearly Marian in character, is at heart a Christocentric prayer."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:7",
+        "quote": "And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Confession to a Priest",
+    "text": "Forgiveness of sins is granted through sacramental confession to a Catholic priest.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1461",
+        "quote": "Indeed bishops and priests, by virtue of the sacrament of Holy Orders, have the power to forgive all sins."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 John 1:9",
+        "quote": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Holy Tradition",
+    "text": "Tradition is a source of authority equal to Scripture in the Catholic Church.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "CCC #82",
+        "quote": "Both Scripture and Tradition must be accepted and honored with equal sentiments of devotion and reverence."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Mark 7:8",
+        "quote": "You have let go of the commands of God and are holding on to human traditions."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Original Sin",
+    "text": "All humans inherit a sinful nature from Adam, removed only by baptism.",
+    "category": "Anthropology",
+    "evidence": [
+      {
+        "source": "CCC #403",
+        "quote": "Following St. Paul, the Church has always taught that the overwhelming misery which oppresses men... stems from sin inherited from Adam."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ezekiel 18:20",
+        "quote": "The son shall not bear the iniquity of the father..."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mortal vs. Venial Sin",
+    "text": "There are different types of sin: mortal sins destroy grace, venial sins do not.",
+    "category": "Sin",
+    "evidence": [
+      {
+        "source": "CCC #1854–1863",
+        "quote": "Mortal sin destroys charity in the heart of man... Venial sin allows charity to subsist, even though it offends and wounds it."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "James 2:10",
+        "quote": "Whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Indulgences",
+    "text": "A remission of the temporal punishment due to sins, granted by the Church.",
+    "category": "Penance",
+    "evidence": [
+      {
+        "source": "CCC #1471",
+        "quote": "An indulgence is a remission before God of the temporal punishment due to sins whose guilt has already been forgiven."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 43:25",
+        "quote": "I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no more."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Mass as a Re-sacrifice",
+    "text": "The Eucharist re-presents the same sacrifice of the cross in a non-bloody manner.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1367",
+        "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice... it is offered in an unbloody manner."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 10:14",
+        "quote": "For by one sacrifice he has made perfect forever those who are being made holy."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Seven Sacraments",
+    "text": "The Catholic Church teaches that there are seven sacraments instituted by Christ.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1113",
+        "quote": "The whole liturgical life of the Church revolves around the Eucharistic sacrifice and the sacraments."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ephesians 2:8–9",
+        "quote": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God..."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Celibacy of the Clergy",
+    "text": "Priests in the Latin Rite must remain unmarried and celibate.",
+    "category": "Clerical Life",
+    "evidence": [
+      {
+        "source": "CCC #1579",
+        "quote": "All the ordained ministers of the Latin Church, with the exception of permanent deacons, are normally chosen from among men of faith who live a celibate life."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Timothy 4:1–3",
+        "quote": "They forbid people to marry and order them to abstain from certain foods..."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Holy Water and Objects",
+    "text": "Holy water and blessed items are believed to have spiritual effects or protective power.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "CCC #1667",
+        "quote": "Sacramentals are sacred signs which bear a resemblance to the sacraments... they prepare men to receive the fruit of the sacraments."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 2:22",
+        "quote": "Although you wash yourself with soap and use an abundance of cleansing powder, the stain of your guilt is still before me..."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Mary as Queen of Heaven",
+    "text": "Mary holds the title Queen of Heaven and is exalted above all other creatures.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "CCC #966",
+        "quote": "The Immaculate Virgin... was taken up body and soul into heavenly glory, and exalted by the Lord as Queen over all things."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 7:18",
+        "quote": "The children gather wood... to make cakes for the Queen of Heaven..."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Veneration of Relics",
+    "text": "The faithful may honor the physical remains of saints or items they used.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "CCC #1674",
+        "quote": "The religious sense of the Christian people has always found expression in the various forms of piety... such as the veneration of relics."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Deuteronomy 18:11",
+        "quote": "Let no one be found among you... who consults the dead."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Consecration to Mary",
+    "text": "Catholics are encouraged to consecrate themselves fully to Mary for spiritual protection and guidance.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Pope John Paul II, Redemptoris Mater #45",
+        "quote": "Mary's role as Mother leads the Church to imitate her complete entrustment to the divine plan."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 37:5",
+        "quote": "Commit your way to the Lord; trust in him and he will do this."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "The Brown Scapular Promise",
+    "text": "Wearing the Brown Scapular with devotion promises salvation and protection at death.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Our Lady of Mount Carmel (Tradition)",
+        "quote": "Whosoever dies wearing this scapular shall not suffer eternal fire."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 14:6",
+        "quote": "I am the way and the truth and the life. No one comes to the Father except through me."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The Five First Saturdays Devotion",
+    "text": "A promise of salvation is attached to performing acts of devotion on five consecutive first Saturdays.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Fatima Revelation (1917)",
+        "quote": "I promise to assist at the hour of death with all the graces necessary for salvation all those who, on the first Saturday of five consecutive months... fulfill the devotion."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ephesians 2:8",
+        "quote": "For it is by grace you have been saved, through faith—and this is not from yourselves..."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Scapulars and Medals",
+    "text": "Religious objects like scapulars and medals bring grace and protection to wearers.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences",
+        "quote": "A plenary indulgence is granted to those who wear a blessed scapular or medal under the usual conditions."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 8:20",
+        "quote": "May your money perish with you, because you thought you could buy the gift of God with money!"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Sacred Heart Devotion",
+    "text": "Devotion to the physical heart of Jesus as a symbol of divine love and reparation.",
+    "category": "Christology",
+    "evidence": [
+      {
+        "source": "CCC #478",
+        "quote": "Jesus knew and loved us each and all during his life, his agony and his Passion and gave himself up for each one of us."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:24",
+        "quote": "God is spirit, and his worshipers must worship in the Spirit and in truth."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Feast Days and Obligations",
+    "text": "Missing Mass on holy days of obligation is a grave sin without sufficient cause.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "CCC #2181",
+        "quote": "Those who deliberately fail in this obligation commit a grave sin."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Colossians 2:16",
+        "quote": "Therefore do not let anyone judge you by what you eat or drink, or with regard to a religious festival..."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Guardian Angels",
+    "text": "Each person has a guardian angel assigned by God.",
+    "category": "Angels",
+    "evidence": [
+      {
+        "source": "CCC #336",
+        "quote": "From its beginning until death, human life is surrounded by their watchful care and intercession."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 1:14",
+        "quote": "Are not all angels ministering spirits sent to serve those who will inherit salvation?"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Canonization of Saints",
+    "text": "The Church claims infallibility when officially declaring someone a saint.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "CCC #828",
+        "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 3:10",
+        "quote": "There is no one righteous, not even one."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Mary as Mediatrix of All Graces",
+    "text": "All graces flow through Mary as a channel between God and man.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Lumen Gentium #62",
+        "quote": "Taken up to heaven she did not lay aside this saving office... Therefore the Blessed Virgin is invoked... as Mediatrix."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Timothy 2:5",
+        "quote": "For there is one God and one mediator between God and mankind, the man Christ Jesus."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "The Miraculous Medal",
+    "text": "Wearing this medal, revealed to St. Catherine Labouré, brings protection and grace.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "\"Those who wear it will receive great graces.\" — alleged words of the Virgin Mary to Catherine Labouré"
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 17:5",
+        "quote": "Cursed is the one who trusts in man, who draws strength from mere flesh."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Holy Images as Channels of Grace",
+    "text": "Veneration of blessed images and statues can channel spiritual benefit.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "CCC #2132",
+        "quote": "The honor paid to sacred images is a 'respectful veneration,' not the adoration due to God alone."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Exodus 20:4–5",
+        "quote": "You shall not make for yourself an image in the form of anything... You shall not bow down to them or worship them."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "The Church as the Only Ark of Salvation",
+    "text": "Salvation is only possible through the Catholic Church.",
+    "category": "Ecclesiology",
+    "evidence": [
+      {
+        "source": "CCC #846",
+        "quote": "\"Outside the Church there is no salvation\"... all salvation comes from Christ the Head through the Church which is his Body."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 14:6",
+        "quote": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Offering Suffering for the Dead",
+    "text": "Believers can offer their personal suffering to reduce purgatory for the dead.",
+    "category": "Penance",
+    "evidence": [
+      {
+        "source": "CCC #1475",
+        "quote": "In the communion of saints... the saints offer their own sufferings for the benefit of others."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ezekiel 18:20",
+        "quote": "The one who sins is the one who will die. The child will not share the guilt of the parent..."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Marian Consecration",
+    "text": "The faithful are encouraged to consecrate themselves to Mary’s protection and intercession.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Pope John Paul II – Totus Tuus",
+        "quote": "I belong entirely to you, and all that I have is yours."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 37:5",
+        "quote": "Commit your way to the Lord; trust in him and he will do this."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Prayers for the Dead",
+    "text": "Masses and prayers are offered to help the dead in purgatory.",
+    "category": "Afterlife",
+    "evidence": [
+      {
+        "source": "CCC #1032",
+        "quote": "The Church also commends almsgiving, indulgences, and works of penance undertaken on behalf of the dead."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 9:27",
+        "quote": "People are destined to die once, and after that to face judgment."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Anointing of the Sick as Last Rites",
+    "text": "Administered to prepare the dying for eternal life and forgiveness.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1523",
+        "quote": "The Anointing of the Sick completes our conformity to the death and Resurrection of Christ..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 23:42–43",
+        "quote": "Then he said, 'Jesus, remember me when you come into your kingdom.' Jesus answered him, 'Truly I tell you, today you will be with me in paradise.'"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Lighting Candles for Saints or Mary",
+    "text": "Faithful light candles as symbolic prayers and devotion before statues.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Popular Catholic Devotions",
+        "quote": "Lighting a candle is a way of extending one's prayer and showing solidarity with the person the prayer is offered for."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:6",
+        "quote": "But when you pray, go into your room, close the door and pray to your Father, who is unseen."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Blessing and Crowning Marian Statues",
+    "text": "Churches ceremonially crown statues of Mary as Queen of Heaven.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Order of Crowning an Image of the Blessed Virgin Mary",
+        "quote": "Let us offer her the homage of our hearts and crown her image as a sign of her queenly dignity."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 10:14",
+        "quote": "Every goldsmith is shamed by his idols. The images he makes are a fraud; they have no breath in them."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Mary as Co-Redemptrix",
+    "text": "Mary participated in Christ’s redemptive work as a unique co-sufferer.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Pope John Paul II – Address, 1985",
+        "quote": "Mary’s role as Co-Redemptrix did not cease with the glorification of her Son."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 9:12",
+        "quote": "He did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once for all by his own blood..."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Litany of the Saints",
+    "text": "A formal invocation calling on the saints by name for intercession.",
+    "category": "Intercession",
+    "evidence": [
+      {
+        "source": "Roman Liturgy",
+        "quote": "All holy men and women, saints of God, pray for us."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 4:16",
+        "quote": "Let us then approach God’s throne of grace with confidence..."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "The Angelus Prayer",
+    "text": "A prayer commemorating the Incarnation, traditionally said three times a day.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "The Angel of the Lord declared unto Mary, and she conceived of the Holy Spirit."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:7",
+        "quote": "And when you pray, do not keep on babbling like pagans..."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Holy Doors and Jubilee Indulgences",
+    "text": "Walking through a Holy Door during a Jubilee Year grants a plenary indulgence.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Jubilee Year Decrees",
+        "quote": "The faithful who enter through the Holy Door can obtain the Jubilee indulgence under the usual conditions."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 4:12",
+        "quote": "Salvation is found in no one else, for there is no other name under heaven... by which we must be saved."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "The Divine Mercy Chaplet",
+    "text": "A prayer revealed to St. Faustina to obtain mercy and forgiveness.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Diary of St. Faustina #476",
+        "quote": "Say unceasingly the chaplet... whoever will recite it will receive great mercy at the hour of death."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 John 1:9",
+        "quote": "If we confess our sins, he is faithful and just and will forgive us our sins..."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Relics of Incorruptible Saints",
+    "text": "The uncorrupted bodies of some saints are viewed as miraculous signs of holiness.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Catholic Encyclopedia",
+        "quote": "The phenomenon of incorruptibility is regarded by the Church as evidence of sanctity."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Genesis 3:19",
+        "quote": "For dust you are and to dust you will return."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Consecration of Russia to the Immaculate Heart",
+    "text": "Popes have consecrated Russia to Mary based on Fatima’s request for peace.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Fatima Revelation (1917)",
+        "quote": "God wishes to establish the devotion to my Immaculate Heart... I shall ask for the consecration of Russia."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 2:8",
+        "quote": "Ask me, and I will make the nations your inheritance..."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "The Latin Mass as the Preferred Rite",
+    "text": "Some Catholics regard the Tridentine Mass as more reverent and valid.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Pope Pius V, Quo Primum (1570)",
+        "quote": "This present Constitution can never be revoked or modified, but shall forever remain valid and have the force of law..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 14:5",
+        "quote": "One person considers one day more sacred than another; another considers every day alike. Each should be fully convinced in their own mind."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Use of Ashes on Ash Wednesday",
+    "text": "Ashes are placed on foreheads to begin the Lenten season as a sign of repentance.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Missal",
+        "quote": "Remember that you are dust, and to dust you shall return."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:16–18",
+        "quote": "When you fast, do not look somber as the hypocrites do... but put oil on your head and wash your face..."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "The Use of Incense and Bells",
+    "text": "Used in liturgy to show reverence, symbolize prayers, and signal sacred moments.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "General Instruction of the Roman Missal",
+        "quote": "Incense may be used during the Entrance Procession, at the Gospel, Offertory, and Elevation."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:23",
+        "quote": "True worshipers will worship the Father in spirit and in truth..."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Exorcism Rites",
+    "text": "The Church uses ritual prayers and authority to expel demons from the possessed.",
+    "category": "Rituals",
+    "evidence": [
+      {
+        "source": "Rituale Romanum",
+        "quote": "I command you, unclean spirit... come out and never enter again!"
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Mark 16:17",
+        "quote": "In my name they will drive out demons..."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Incorruptibles as Proof of Holiness",
+    "text": "Some saints’ bodies are preserved naturally as signs of sanctity.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "The incorruption of the body is seen as a divine affirmation of the saint's purity and sanctity."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ecclesiastes 3:20",
+        "quote": "All go to the same place; all come from dust, and to dust all return."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "The Holy Spirit Through the Pope",
+    "text": "The Holy Spirit guides the Church through the Pope in a unique, authoritative way.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "CCC #892",
+        "quote": "Divine assistance is also given to the successors of the apostles... especially to the Bishop of Rome."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 14:26",
+        "quote": "But the Advocate, the Holy Spirit... will teach you all things and will remind you of everything I have said to you."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Blessing of the Throats (St. Blaise)",
+    "text": "Priests bless throats using crossed candles on the feast of St. Blaise for protection against illness.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Roman Ritual – Feast of St. Blaise",
+        "quote": "Through the intercession of Saint Blaise, bishop and martyr, may God deliver you from ailments of the throat and from every other evil."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 53:5",
+        "quote": "By his wounds we are healed."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Holy Water Fonts at Church Entrances",
+    "text": "Used for making the sign of the cross upon entering or leaving sacred space.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Custom",
+        "quote": "A reminder of baptism and a gesture of purification."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Peter 3:21",
+        "quote": "This water symbolizes baptism that now saves you—not the removal of dirt from the body but the pledge of a clear conscience toward God."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Genuflecting Before the Tabernacle",
+    "text": "A sign of adoration toward the Real Presence in the Eucharist.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "General Instruction of the Roman Missal",
+        "quote": "A genuflection, made by bending the right knee to the ground, signifies adoration."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Exodus 20:5",
+        "quote": "You shall not bow down to them or worship them."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Kissing the Cross on Good Friday",
+    "text": "A traditional act of reverence toward the instrument of Christ's passion.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Good Friday Liturgy",
+        "quote": "Behold the wood of the Cross, on which hung the Savior of the world. Come, let us worship."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:24",
+        "quote": "God is spirit, and his worshipers must worship in the Spirit and in truth."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Sprinkling Rite with Holy Water",
+    "text": "Used during Mass as a reminder of baptism and for blessing.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Roman Missal",
+        "quote": "The sprinkling of water reminds the faithful of their Baptism and is a sign of purification."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 10:22",
+        "quote": "Let us draw near to God with a sincere heart... having our hearts sprinkled to cleanse us from a guilty conscience..."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Processions with Statues",
+    "text": "Statues of saints and Mary are carried through streets in acts of public devotion.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Directory on Popular Piety",
+        "quote": "Processions are expressions of faith and part of the Church’s living tradition."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 44:17",
+        "quote": "They bow down to it and worship it. They pray to it and say, 'Save me! You are my god!'"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Statues That Weep or Bleed",
+    "text": "Some statues reportedly exude tears or blood as supernatural signs.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Private Revelations",
+        "quote": "These occurrences are subject to investigation and approval by Church authorities."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 12:39",
+        "quote": "A wicked and adulterous generation asks for a sign!"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Veneration of the Cross",
+    "text": "Crosses are venerated, especially during Lent and on Good Friday.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "CCC #617",
+        "quote": "The cross is the unique sacrifice of Christ, the 'one mediator between God and men.'"
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Galatians 6:14",
+        "quote": "May I never boast except in the cross of our Lord Jesus Christ..."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Carrying Palms on Palm Sunday",
+    "text": "The faithful carry blessed palms to remember Christ’s entry into Jerusalem.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Palm Sunday Liturgy",
+        "quote": "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord!"
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:1",
+        "quote": "Be careful not to practice your righteousness in front of others to be seen by them..."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Blessing of Animals on St. Francis Day",
+    "text": "Pets and animals are brought to church for blessings in honor of St. Francis.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Blessing of Animals – Book of Blessings",
+        "quote": "Blessed are you, Lord God, for all your creatures..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 50:10–12",
+        "quote": "For every animal of the forest is mine... the cattle on a thousand hills..."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Prayers for Souls in Purgatory During November",
+    "text": "The Church encourages special prayers and indulgences for the dead in November.",
+    "category": "Afterlife",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences",
+        "quote": "A plenary indulgence, applicable only to the souls in purgatory, is granted to the faithful who visit a cemetery and pray for the dead each day from November 1 to 8."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 16:26",
+        "quote": "Between us and you a great chasm has been set in place... so that no one can cross from there to us."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Blessing of Homes with Chalk on Epiphany",
+    "text": "Catholics write initials of the Magi above doors to bless the home for the new year.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Custom",
+        "quote": "20 + C + M + B + 24 – Christus Mansionem Benedicat (May Christ bless the house)."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 17:24",
+        "quote": "The God who made the world... does not live in temples built by human hands."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Relics Embedded in Altars",
+    "text": "Altars often contain relics of saints beneath the Eucharist table.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "General Instruction of the Roman Missal #302",
+        "quote": "It is desirable to place the relics of Saints under the altar to be dedicated."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 17:29",
+        "quote": "Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone..."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Mary as the Ark of the New Covenant",
+    "text": "Mary is typologically equated with the Ark that carried the presence of God.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "CCC #2676",
+        "quote": "Mary... in whom the Lord himself has just made his dwelling."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Revelation 11:19 – 12:1",
+        "quote": "Then God's temple in heaven was opened, and within his temple was seen the ark of his covenant... A great sign appeared in heaven: a woman clothed with the sun..."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Holy Fire in Jerusalem (Orthodox origin, Catholic recognized)",
+    "text": "A miraculous flame reportedly appears yearly on Holy Saturday in Jesus' tomb.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Orthodox/Catholic Pilgrimage Tradition",
+        "quote": "The Holy Fire symbolizes the resurrection light of Christ and is used to ignite candles worldwide."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 24:26",
+        "quote": "So if anyone tells you, ‘There he is, out in the wilderness,’ do not go out; or, ‘Here he is, in the inner rooms,’ do not believe it."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Plenary Indulgence for Reciting Rosary in Group",
+    "text": "Catholics may gain full indulgence for praying the Rosary together in a church or family.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences #17",
+        "quote": "A plenary indulgence is granted when the Rosary is recited in a church or oratory, or in a family, religious community, or pious association."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Colossians 2:8",
+        "quote": "See to it that no one takes you captive through hollow and deceptive philosophy..."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Totus Tuus Devotion",
+    "text": "A total consecration to Mary popularized by Pope John Paul II.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Pope John Paul II, Redemptoris Mater",
+        "quote": "Totus Tuus – I am totally yours, and all that I have is yours."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Deuteronomy 6:5",
+        "quote": "Love the Lord your God with all your heart and with all your soul and with all your strength."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Marian Titles: 'Our Life, Our Sweetness, and Our Hope'",
+    "text": "Used in the Salve Regina, this prayer assigns to Mary roles belonging to Christ.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Salve Regina",
+        "quote": "Hail, Holy Queen, our life, our sweetness, and our hope."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 14:6",
+        "quote": "Jesus answered, 'I am the way and the truth and the life.'"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Prayer Cards as Channels of Grace",
+    "text": "Carrying and praying with printed images of saints or Jesus is believed to bring spiritual benefits.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Popular Catholic Devotions",
+        "quote": "Prayer cards are reminders of the saint's intercession and serve to increase piety."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 44:20",
+        "quote": "Such a person feeds on ashes; a deluded heart misleads him; he cannot save himself..."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Blessing of the Sick with Relics",
+    "text": "Touching or blessing the sick with relics is believed to bring healing grace.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "Healing miracles are attributed to the touch of saintly relics."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 9:22",
+        "quote": "Jesus turned and saw her. 'Take heart, daughter,' he said, 'your faith has healed you.'"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Crowning of Infant Jesus Statues",
+    "text": "Statues of the child Jesus, such as the Infant of Prague, are crowned and clothed in ornate robes.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Vatican Devotions to the Infant Jesus of Prague",
+        "quote": "The more you honor me, the more I will bless you."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 17:24–25",
+        "quote": "The God who made the world... is not served by human hands, as if he needed anything..."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Rosary Processions in Streets",
+    "text": "Public recitation of the Rosary while processing through neighborhoods is encouraged as a spiritual act.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Rosarium Virginis Mariae",
+        "quote": "The Rosary remains a prayer of the Church and can be effectively used in group settings and processions."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:5",
+        "quote": "Do not be like the hypocrites, for they love to pray standing... to be seen by others."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Saint Medals as Protection",
+    "text": "Medals of saints like St. Benedict are worn for spiritual protection against evil.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "The Medal of St. Benedict",
+        "quote": "Whoever wears this medal with devotion invokes the power of the Cross and of St. Benedict."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 31:1",
+        "quote": "Woe to those who rely on horses... but do not look to the Holy One of Israel."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Use of Latin as Sacred Language",
+    "text": "Latin is preferred in sacred liturgy for its historic and spiritual value.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Sacrosanctum Concilium #36",
+        "quote": "The use of the Latin language is to be preserved in the Latin rites."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Corinthians 14:9",
+        "quote": "Unless you speak intelligible words with your tongue, how will anyone know what you are saying?"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Use of Rosary in Funeral Rites",
+    "text": "Reciting the Rosary is a central practice in Catholic funerals.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Order of Christian Funerals",
+        "quote": "The Rosary may be prayed before or after the vigil service."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ecclesiastes 9:5",
+        "quote": "For the living know that they will die, but the dead know nothing..."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Offering Mass for the Living",
+    "text": "Catholics may request a Mass be offered for a living person’s needs.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1371",
+        "quote": "The Eucharistic sacrifice is also offered for the faithful still living."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 7:25",
+        "quote": "He always lives to intercede for them."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Pilgrimage to Marian Shrines",
+    "text": "Travel to holy Marian sites (e.g., Lourdes, Fatima) is encouraged for healing and intercession.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "These shrines offer a privileged place to experience God's mercy through Mary."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:21",
+        "quote": "A time is coming when you will worship the Father neither on this mountain nor in Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "The Enrolment in Confraternities",
+    "text": "Catholics join spiritual associations (like the Rosary Confraternity) for shared spiritual benefits.",
+    "category": "Community/Tradition",
+    "evidence": [
+      {
+        "source": "Dominican Confraternities",
+        "quote": "Members share in the prayers and spiritual benefits of the Order."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Corinthians 1:13",
+        "quote": "Is Christ divided? Was Paul crucified for you?"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Catholic Teaching on Private Revelation",
+    "text": "Private revelations, like Marian apparitions, can be approved for belief but are not binding.",
+    "category": "Revelation",
+    "evidence": [
+      {
+        "source": "CCC #67",
+        "quote": "Private revelations... do not belong to the deposit of faith. It is not their role to improve or complete Christ’s definitive Revelation."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Peter 1:19",
+        "quote": "We have the prophetic message as something completely reliable..."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Holy Saturday Silence",
+    "text": "The Church honors the day Christ’s body lay in the tomb with quiet waiting.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Missal – Holy Saturday",
+        "quote": "On this day the Church waits at the Lord’s tomb in prayer and fasting."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 24:6",
+        "quote": "He is not here; he has risen!"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Blessed Salt for Protection",
+    "text": "Blessed salt is used in exorcisms, home blessings, and personal protection from evil.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Roman Ritual",
+        "quote": "May all who use it find protection of soul and body..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Thessalonians 3:3",
+        "quote": "The Lord is faithful, and he will strengthen you and protect you from the evil one."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Blessing of Cars and Transportation",
+    "text": "Catholics seek protection on the road by having their vehicles blessed.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Book of Blessings #557",
+        "quote": "May the Lord be with you on your journeys, and may holy angels guide your steps."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Proverbs 3:5–6",
+        "quote": "Trust in the Lord with all your heart... and he will make your paths straight."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Stations of the Cross",
+    "text": "A devotion involving reflection on Christ’s Passion through 14 stations.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Directory on Popular Piety",
+        "quote": "The Via Crucis nourishes a deep devotion to Christ crucified."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Corinthians 5:7",
+        "quote": "For we live by faith, not by sight."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Holy Land Soil or Relics Carried for Blessing",
+    "text": "Catholics carry soil or objects from Israel or relics of saints for spiritual favor.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Pilgrimage Traditions",
+        "quote": "Holy Land relics symbolize sacred presence and connection to salvation history."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 7:48",
+        "quote": "The Most High does not live in houses made by human hands."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Benediction of the Blessed Sacrament",
+    "text": "The Eucharist is placed in a monstrance and blessed over the people.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Eucharistic Adoration Rite",
+        "quote": "May the blessing of Almighty God... come down upon you and remain with you forever."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 18:20",
+        "quote": "For where two or three gather in my name, there am I with them."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Fasting on Ash Wednesday and Good Friday",
+    "text": "Catholics are obliged to fast and abstain on specific holy days.",
+    "category": "Penance",
+    "evidence": [
+      {
+        "source": "Canon Law #1251",
+        "quote": "Abstinence from meat or another food as determined by the bishops is to be observed on Ash Wednesday and Good Friday."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Colossians 2:20–21",
+        "quote": "Why do you submit to its rules: 'Do not handle! Do not taste! Do not touch!'?"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Sprinkling of Ashes on Forehead",
+    "text": "Symbol of penance placed visibly on the faithful to begin Lent.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Missal – Ash Wednesday",
+        "quote": "Remember you are dust, and to dust you shall return."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:17–18",
+        "quote": "But when you fast, anoint your head and wash your face..."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Processional Banners and Holy Emblems",
+    "text": "Banners and icons are carried during church feasts or celebrations.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Catholic Liturgical Norms",
+        "quote": "Sacred processions symbolize the Church on its pilgrimage toward heaven."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Exodus 20:4",
+        "quote": "You shall not make for yourself an image in the form of anything..."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "The Fatima 'Secrets'",
+    "text": "Messages revealed to the children of Fatima are considered heavenly instructions for the Church.",
+    "category": "Private Revelation",
+    "evidence": [
+      {
+        "source": "Fatima Archives",
+        "quote": "In the end, my Immaculate Heart will triumph."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Deuteronomy 29:29",
+        "quote": "The secret things belong to the Lord our God..."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Holy Card Devotionals",
+    "text": "Small printed cards with prayers or images of saints used for inspiration and grace.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Devotional Culture",
+        "quote": "These small cards nourish personal piety and devotion."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 2:8",
+        "quote": "Their land is full of idols; they bow down to the work of their hands..."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Rosary as a Spiritual Weapon",
+    "text": "The Rosary is promoted as a powerful tool against evil and spiritual warfare.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Pope Pius IX",
+        "quote": "Give me an army saying the Rosary and I will conquer the world."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ephesians 6:17",
+        "quote": "Take the helmet of salvation and the sword of the Spirit, which is the word of God."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Stigmata in the Saints",
+    "text": "Some saints reportedly bore the wounds of Christ as miraculous signs.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Canonization Records (e.g., St. Padre Pio)",
+        "quote": "He bore the visible wounds of Christ in his hands, feet, and side for over 50 years."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Galatians 6:17",
+        "quote": "I bear on my body the marks of Jesus."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Visionary-Received Prayers (e.g. Divine Mercy)",
+    "text": "New prayers or devotions received via private revelations are approved and promoted.",
+    "category": "Private Revelation",
+    "evidence": [
+      {
+        "source": "Divine Mercy Diary",
+        "quote": "Encourage souls to say the Chaplet... whoever will recite it will receive great mercy."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Revelation 22:18",
+        "quote": "If anyone adds anything to them, God will add to that person the plagues described in this scroll."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Exposition of the Blessed Sacrament",
+    "text": "The consecrated host is displayed publicly in a monstrance for adoration.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "CCC #1378",
+        "quote": "In the liturgy of the Mass we express our faith in the real presence of Christ by... adoration of the Eucharist."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 17:29",
+        "quote": "We should not think that the divine being is like gold or silver or stone..."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Stations of the Cross Plenary Indulgence",
+    "text": "A plenary indulgence is attached to the devout exercise of the Way of the Cross.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences #63",
+        "quote": "A plenary indulgence is granted to those who devoutly make the Stations of the Cross."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Galatians 2:16",
+        "quote": "A person is not justified by the works of the law, but by faith in Jesus Christ."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Blessed Oils for Anointing",
+    "text": "The Church uses specially consecrated oils in sacraments and blessings.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1294",
+        "quote": "Anointing with sacred chrism signifies the gift of the Holy Spirit to the newly baptized."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Samuel 16:13",
+        "quote": "So Samuel took the horn of oil and anointed him in the presence of his brothers..."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Holy Year Indulgences",
+    "text": "Extraordinary years like the Jubilee are declared for spiritual renewal and indulgence acquisition.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Bull of Indiction, Jubilee Year",
+        "quote": "During this Holy Year, the Church opens the treasury of merits to the faithful..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 3:24",
+        "quote": "And all are justified freely by his grace through the redemption that came by Christ Jesus."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Prayer to the Shoulder Wound of Christ",
+    "text": "A devotional prayer to the hidden shoulder wound believed to have caused Jesus the most pain.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Attributed to St. Bernard of Clairvaux",
+        "quote": "O loving Jesus, meek Lamb of God, I, a miserable sinner, salute and worship the most sacred wound of Thy Shoulder..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 53:3–5",
+        "quote": "He was pierced for our transgressions, he was crushed for our iniquities..."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "The Litany of the Blessed Virgin Mary",
+    "text": "A formal set of invocations honoring Mary by various titles.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Litany of Loreto",
+        "quote": "Mother most pure, Mother most chaste, Mother undefiled... pray for us."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 1:47",
+        "quote": "And my spirit rejoices in God my Savior."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Imposition of Hands by the Pope",
+    "text": "Blessings by the Pope through laying on of hands are viewed as carrying unique grace.",
+    "category": "Clerical Authority",
+    "evidence": [
+      {
+        "source": "Papal Blessings Rite",
+        "quote": "By apostolic authority, I bless you and impart the grace of Christ our Lord."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 7:24",
+        "quote": "Because Jesus lives forever, he has a permanent priesthood."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "The Scapular Promise of Saturday Deliverance",
+    "text": "The Sabbatine Privilege claims Mary will deliver scapular wearers from purgatory on the first Saturday after death.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Carmelite Tradition",
+        "quote": "I, the Mother of Grace, shall descend on the Saturday after their death and whomsoever I shall find in purgatory I shall free."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Corinthians 5:8",
+        "quote": "To be away from the body is to be at home with the Lord."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Benediction with the Eucharist",
+    "text": "The Eucharist is elevated and used to bless the people during adoration.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Ritual – Rite of Eucharistic Exposition and Benediction",
+        "quote": "The priest or deacon blesses the people with the Eucharist in the monstrance."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 28:20",
+        "quote": "Surely I am with you always, to the very end of the age."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Candlemas: Blessing of Candles",
+    "text": "On February 2nd, candles are blessed to symbolize Christ the Light of the World.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Missal – Feast of the Presentation",
+        "quote": "These candles, blessed on this day, symbolize Christ who enlightens the nations."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 8:12",
+        "quote": "I am the light of the world. Whoever follows me will never walk in darkness..."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Reliquary Processions",
+    "text": "The Church sometimes parades relics of saints through the streets for veneration.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "Processions with relics express the spiritual bond between the Church triumphant and militant."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Exodus 20:4-5",
+        "quote": "You shall not make for yourself an image... You shall not bow down to them nor serve them."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Prayer to the Shoulder Wound of Jesus",
+    "text": "This devotion claims the shoulder wound of Christ is the most painful and hidden.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Tradition attributed to St. Bernard",
+        "quote": "O loving Jesus, meek Lamb of God, I worship the sacred wound on your shoulder..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 19:34",
+        "quote": "One of the soldiers pierced Jesus’ side with a spear, bringing a sudden flow of blood and water."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Infant Jesus of Prague Novena",
+    "text": "A novena prayed for miraculous assistance through devotion to the child Jesus.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Shrine of Infant Jesus of Prague",
+        "quote": "The more you honor me, the more I will bless you."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Philippians 4:6",
+        "quote": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Naming Feast Days After Saints",
+    "text": "Days on the calendar are dedicated to saints and martyrs to be honored by the Church.",
+    "category": "Tradition",
+    "evidence": [
+      {
+        "source": "General Roman Calendar",
+        "quote": "These feasts commemorate the holy men and women who serve as models and intercessors."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 14:5",
+        "quote": "One person considers one day more sacred than another; another considers every day alike..."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Papal Jubilee Indulgences",
+    "text": "Special plenary indulgences granted by the Pope during Jubilee years.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Bull of Indiction, Holy Year",
+        "quote": "The faithful who cross the Holy Door during the Jubilee... may obtain a plenary indulgence."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 55:1",
+        "quote": "Come, all you who are thirsty, come to the waters... without money and without cost."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Enthronement of the Sacred Heart",
+    "text": "A ceremony placing an image of the Sacred Heart of Jesus in the home for spiritual protection.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Sacred Heart Enthronement Manual",
+        "quote": "When the Sacred Heart is enthroned in a home, Christ reigns over the family..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Exodus 20:4",
+        "quote": "You shall not make for yourself an image..."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "The Golden Arrow Prayer",
+    "text": "A prayer revealed to Sister Marie de Saint-Pierre as reparation for blasphemy.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Devotion to the Holy Face of Jesus",
+        "quote": "\"May the most holy, most sacred, most adorable, most incomprehensible and ineffable Name of God be always praised...\""
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:9",
+        "quote": "Hallowed be your name."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Consecration of Families to the Sacred Heart",
+    "text": "Families are formally consecrated to the Sacred Heart of Jesus for divine protection.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Sacred Heart Devotion Manual",
+        "quote": "Consecrate your home and family to the Sacred Heart for peace and blessing."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Joshua 24:15",
+        "quote": "But as for me and my house, we will serve the Lord."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Angelus Bell at Noon",
+    "text": "Church bells ring three times a day inviting the faithful to recite the Angelus prayer.",
+    "category": "Tradition",
+    "evidence": [
+      {
+        "source": "Angelus Devotion",
+        "quote": "The Angel of the Lord declared unto Mary, and she conceived of the Holy Spirit..."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 6:7",
+        "quote": "And when you pray, do not keep on babbling like pagans..."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "The Rosary as a Weapon Against Heresy",
+    "text": "Historically promoted to combat false teachings and convert unbelievers.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Pope Leo XIII, Supremi Apostolatus Officio",
+        "quote": "The Rosary is a most powerful means of obtaining the help of the Blessed Virgin against heresy."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Timothy 3:16",
+        "quote": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness..."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Crowning of Marian Statues in May",
+    "text": "Statues of Mary are crowned with flowers during the month dedicated to her.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "May Devotions",
+        "quote": "Mary is honored in a special way in May through crowning ceremonies and floral tributes."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 7:18",
+        "quote": "The children gather wood... to make cakes for the Queen of Heaven."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Rogation Days and Blessings of the Fields",
+    "text": "Ancient days of prayer for blessings on crops and protection from natural disaster.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Catholic Encyclopedia",
+        "quote": "Rogation Days are days of solemn supplication and processions for divine blessing on agriculture."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 5:45",
+        "quote": "He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Wearing the Fivefold Scapular",
+    "text": "A combination of five devotions worn for greater spiritual benefits.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Scapular Devotions",
+        "quote": "Wearing the Fivefold Scapular joins the wearer to multiple confraternities and indulgences."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 13:14",
+        "quote": "Clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Blessing of Grapes on St. Xenia’s Feast",
+    "text": "Catholics and Orthodox bless grapes as first fruits during certain feasts.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Byzantine Liturgy",
+        "quote": "These fruits, offered in thanksgiving, are signs of God’s goodness."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 13:15",
+        "quote": "Let us continually offer to God a sacrifice of praise—the fruit of lips that openly profess his name."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Kissing the Pope's Ring",
+    "text": "A traditional sign of reverence to the Vicar of Christ.",
+    "category": "Clerical Authority",
+    "evidence": [
+      {
+        "source": "Vatican Protocol",
+        "quote": "Kissing the ring symbolizes obedience to and unity with the papal office."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 10:26",
+        "quote": "Peter made him get up. 'Stand up,' he said, 'I am only a man myself.'"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Devotion to the Seven Sorrows of Mary",
+    "text": "Focuses on Mary's suffering during Jesus' passion and death.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Servite Order",
+        "quote": "Meditation on Mary's Seven Sorrows brings healing and grace."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 53:3",
+        "quote": "He was despised and rejected by mankind, a man of suffering..."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Offering the Eucharist for a Specific Intention",
+    "text": "Masses may be offered for healing, success, or other special intentions.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "CCC #1371",
+        "quote": "The Eucharistic sacrifice is also offered for the faithful still living: for their needs, sufferings, and joys."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Philippians 4:6",
+        "quote": "In every situation, by prayer and petition, with thanksgiving, present your requests to God."
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Pilgrimage to Indulgence Sites",
+    "text": "Visiting sacred shrines such as Lourdes or Fatima can grant indulgences under certain conditions.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences",
+        "quote": "A plenary indulgence is granted to the faithful who, under prescribed conditions, visit designated sacred places."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:21",
+        "quote": "A time is coming when you will worship the Father neither on this mountain nor in Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Liturgical Colors Correspond to Seasons",
+    "text": "Different colors (purple, green, white, red) are used in vestments and altar cloths to mark the liturgical season.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "General Instruction of the Roman Missal #346",
+        "quote": "The purpose of these liturgical colors is to express the character of the mysteries of the faith."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Colossians 2:16–17",
+        "quote": "Do not let anyone judge you by what you eat or drink, or with regard to a religious festival..."
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Blessing of Wine on St. John’s Day",
+    "text": "Wine is blessed and consumed in honor of St. John the Evangelist.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Roman Ritual",
+        "quote": "Bless, O Lord, this creature, wine, that it may be a healthful remedy to all who partake of it."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ephesians 5:18",
+        "quote": "Do not get drunk on wine, which leads to debauchery."
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Use of Incorrupt Bodies as Public Relics",
+    "text": "Incorrupt remains of saints are placed on display in churches.",
+    "category": "Miracles",
+    "evidence": [
+      {
+        "source": "Catholic Tradition",
+        "quote": "These incorrupt saints are seen as living signs of God’s presence and power over decay."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Genesis 3:19",
+        "quote": "Dust you are and to dust you will return."
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Kissing of the Gospel Book",
+    "text": "The Gospel book is kissed during Mass after the reading as a sign of reverence.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "General Instruction of the Roman Missal",
+        "quote": "The deacon kisses the book as a sign of respect for the word of Christ."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "James 1:22",
+        "quote": "Do not merely listen to the word, and so deceive yourselves. Do what it says."
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "title": "The Papal Blessing Urbi et Orbi",
+    "text": "A special apostolic blessing given by the Pope to the city (Rome) and the world.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "Vatican Liturgical Protocol",
+        "quote": "Urbi et Orbi carries with it a plenary indulgence to those who receive it with devotion."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Peter 3:9",
+        "quote": "Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing..."
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Canonical Coronation of Mary Statues",
+    "text": "The Pope may grant a crown to an image of Mary for veneration.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Vatican Decrees",
+        "quote": "By virtue of the apostolic authority, we crown this image of the Blessed Virgin Mary."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Revelation 19:10",
+        "quote": "At this I fell at his feet to worship him. But he said to me, 'Don’t do that! I am a fellow servant... Worship God!'"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Scapular Enrollment Ceremonies",
+    "text": "A priest must officially invest a person with a scapular for its spiritual benefits to apply.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Carmelite Rituals",
+        "quote": "The scapular is to be imposed with a special prayer by a priest or authorized cleric."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 8:20",
+        "quote": "May your money perish with you, because you thought you could buy the gift of God with money!"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Blessing of the Sick with the Eucharist",
+    "text": "The priest brings the Eucharist to the sick and may bless them with the host.",
+    "category": "Sacraments",
+    "evidence": [
+      {
+        "source": "Rite of Communion to the Sick",
+        "quote": "The minister raises the host over the person and prays a blessing."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "James 5:14",
+        "quote": "Is anyone among you sick? Let them call the elders of the church to pray over them..."
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Statues Dressed in Liturgical Colors",
+    "text": "Saint statues are dressed in garments matching the liturgical calendar.",
+    "category": "Tradition",
+    "evidence": [
+      {
+        "source": "Catholic Custom",
+        "quote": "The saint is clothed in purple, red, or white to reflect the feast or season."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 44:13–17",
+        "quote": "He cuts down cedars... bows down to it and worships it. He prays to it and says, 'Save me! You are my god!'"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Chaplet of the Holy Wounds",
+    "text": "A devotion focused on meditating on Christ’s wounds for reparation and mercy.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Revelations to Sr. Mary Martha Chambon",
+        "quote": "Eternal Father, I offer You the Wounds of our Lord Jesus Christ, to heal the wounds of our souls."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Peter 2:24",
+        "quote": "By his wounds you have been healed."
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "title": "The Te Deum Indulgence",
+    "text": "A plenary indulgence is granted when the Te Deum is sung in public on the last day of the year.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences",
+        "quote": "A plenary indulgence is granted for public recitation of the Te Deum on December 31."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Hebrews 13:15",
+        "quote": "Through Jesus, therefore, let us continually offer to God a sacrifice of praise..."
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Use of Blessed Chalk in House Blessings",
+    "text": "Chalk blessed on Epiphany is used to inscribe doorways with initials of the Magi.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Book of Blessings #1625",
+        "quote": "Bless this chalk and grant that those who use it with faith may receive your protection."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 127:1",
+        "quote": "Unless the Lord builds the house, the builders labor in vain."
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Use of Relics in Altars",
+    "text": "Altars are often built with relics of saints encased inside.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "GIRM #302",
+        "quote": "The practice of placing relics of Saints under the altar is to be maintained."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 23:27",
+        "quote": "You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of the bones of the dead..."
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Pope’s Title: 'Holy Father'",
+    "text": "The Pope is referred to as the 'Holy Father' as leader of the Church.",
+    "category": "Authority",
+    "evidence": [
+      {
+        "source": "Vatican Protocol",
+        "quote": "The Holy Father is a title given to the Pope as successor of Peter."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 23:9",
+        "quote": "And do not call anyone on earth ‘father,’ for you have one Father, and he is in heaven."
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Wearing Medals of Saints and Mary",
+    "text": "Faithful wear religious medals for protection, grace, and devotion.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Custom",
+        "quote": "Wearing a medal is an outward sign of faith and belief in the intercession of the saint."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Jeremiah 10:5",
+        "quote": "Like a scarecrow in a cucumber field, their idols cannot speak; they must be carried because they cannot walk."
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Holy Face Devotion",
+    "text": "Focuses on honoring the facial image of Jesus as reparation for blasphemy.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Revelations to Sr. Mary of St. Peter",
+        "quote": "Those who honor my Holy Face will receive graces and mercy."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "2 Corinthians 5:7",
+        "quote": "For we live by faith, not by sight."
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Exorcism Blessings on Salt and Oil",
+    "text": "Salt and oil used in spiritual warfare are blessed with specific exorcism prayers.",
+    "category": "Rituals",
+    "evidence": [
+      {
+        "source": "Roman Ritual – Blessings",
+        "quote": "I exorcise you, creature salt, by the living God... may you drive away the enemy."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "James 4:7",
+        "quote": "Resist the devil, and he will flee from you."
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Mary as the 'Spouse of the Holy Spirit'",
+    "text": "Catholic teaching refers to Mary as spiritually espoused to the Holy Spirit.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Redemptoris Mater #26",
+        "quote": "The Holy Spirit espoused the Virgin Mary, and by this union, the Word was made flesh."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 1:35",
+        "quote": "The Holy Spirit will come upon you, and the power of the Most High will overshadow you."
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Devotion to the Immaculate Heart",
+    "text": "Worshippers honor Mary's heart as a symbol of her love, suffering, and intercession.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "CCC #492",
+        "quote": "The Church, by the guidance of the Holy Spirit, has come to confess the preeminence of Mary’s heart."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 22:37",
+        "quote": "Love the Lord your God with all your heart and with all your soul and with all your mind."
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Blessing of Bells",
+    "text": "Church bells are solemnly blessed before use, often named and anointed.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Ritual",
+        "quote": "May this bell be sanctified... so that when it rings, it may drive away evil spirits and storms."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Zechariah 4:6",
+        "quote": "Not by might nor by power, but by my Spirit, says the Lord Almighty."
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Holy Water Fonts in Homes",
+    "text": "Catholics place holy water containers near doors for personal blessing.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Catholic Devotional Practice",
+        "quote": "Bless yourself as you come and go; let holy water be your shield of faith."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Ezekiel 36:25–26",
+        "quote": "I will sprinkle clean water on you, and you will be clean... I will give you a new heart."
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Use of the Monstrance",
+    "text": "The Eucharist is displayed in an ornate vessel for adoration.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Eucharistic Adoration Manual",
+        "quote": "The monstrance shows the Real Presence of Jesus to the faithful."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 20:29",
+        "quote": "Blessed are those who have not seen and yet have believed."
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Mary as Advocate and Mediatrix",
+    "text": "Mary is invoked as an advocate before God and channel of all graces.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Lumen Gentium #62",
+        "quote": "By her manifold intercession she continues to bring us the gifts of eternal salvation."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Timothy 2:5",
+        "quote": "For there is one God and one mediator between God and mankind, the man Christ Jesus."
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Feast of the Sacred Heart",
+    "text": "A solemnity dedicated to the physical heart of Jesus as a sign of divine love.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "CCC #478",
+        "quote": "Jesus knew and loved us each and all... and gave himself up for each one of us."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 4:24",
+        "quote": "God is spirit, and his worshipers must worship in the Spirit and in truth."
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Blessing of Religious Articles",
+    "text": "Crosses, medals, rosaries and more are blessed by clergy for spiritual benefit.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Book of Blessings",
+        "quote": "Let these sacramentals be signs of God’s presence and instruments of his grace."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Isaiah 46:7",
+        "quote": "They lift it to their shoulders and carry it... it cannot move from its place."
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Enthronement of Christ as King",
+    "text": "A devotion to acknowledge Jesus as King over families, nations, and homes.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Quas Primas, Pope Pius XI",
+        "quote": "He must reign in our minds... our wills... our hearts and bodies."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Philippians 2:10–11",
+        "quote": "At the name of Jesus every knee should bow... and every tongue acknowledge that Jesus Christ is Lord..."
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Year of St. Joseph",
+    "text": "A designated liturgical year honoring the life and intercession of St. Joseph.",
+    "category": "Tradition",
+    "evidence": [
+      {
+        "source": "Patris Corde, Pope Francis",
+        "quote": "St. Joseph was chosen to be the faithful guardian of Jesus and Mary."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 10:25–26",
+        "quote": "Peter made him get up. ‘Stand up,’ he said, ‘I am only a man myself.’"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Rosary Indulgences by Pope",
+    "text": "Popes have attached indulgences to public and private recitation of the Rosary.",
+    "category": "Indulgences",
+    "evidence": [
+      {
+        "source": "Enchiridion of Indulgences",
+        "quote": "A plenary indulgence is granted for praying the Rosary in a church, family, or religious community."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Romans 11:6",
+        "quote": "If by grace, then it cannot be based on works; if it were, grace would no longer be grace."
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Pilgrim Blessings",
+    "text": "Special blessings are given to those embarking on pilgrimage to holy sites.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Book of Blessings",
+        "quote": "May the Lord be your guide and companion as you go forth on pilgrimage."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Matthew 28:20",
+        "quote": "And surely I am with you always, to the very end of the age."
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Holy Thursday Foot Washing Ritual",
+    "text": "Priests wash the feet of parishioners in imitation of Jesus at the Last Supper.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Roman Missal – Holy Thursday",
+        "quote": "This action represents Christ’s humility and the call to serve one another."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 13:14–15",
+        "quote": "Now that I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet."
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Blessing of Throats on St. Blaise Day",
+    "text": "Priests cross candles and bless individuals for healing and protection from throat ailments.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Book of Blessings #1628",
+        "quote": "Through the intercession of Saint Blaise... may you be delivered from every disease of the throat and from every other illness."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "James 5:14–15",
+        "quote": "Is anyone among you sick? Let them call the elders of the church to pray over them..."
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Naming Guardian Angels",
+    "text": "Some Catholics name their guardian angel and establish a personal devotion.",
+    "category": "Angels",
+    "evidence": [
+      {
+        "source": "Catholic Custom",
+        "quote": "Naming your guardian angel fosters familiarity and spiritual closeness."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Colossians 2:18",
+        "quote": "Do not let anyone... disqualify you... such a person... goes into great detail about what they have seen; they are puffed up with idle notions."
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "title": "First Friday Devotions",
+    "text": "Nine consecutive first Fridays dedicated to the Sacred Heart of Jesus for grace and final repentance.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Promises of the Sacred Heart to St. Margaret Mary",
+        "quote": "I promise you in the excessive mercy of My Heart that My all-powerful love will grant to all those who receive Communion on the First Fridays... the grace of final repentance."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Titus 3:5",
+        "quote": "He saved us, not because of righteous things we had done, but because of his mercy."
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Marian Consecration Formulae",
+    "text": "Formalized prayers consecrating oneself to Mary, such as those by St. Louis de Montfort.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "True Devotion to Mary",
+        "quote": "I am all yours, and all that I have is yours, O most loving Jesus, through Mary, your holy Mother."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 73:25",
+        "quote": "Whom have I in heaven but you? And earth has nothing I desire besides you."
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Scapular Privileges on Death",
+    "text": "Wearing a scapular is believed to offer protection against sudden death without confession.",
+    "category": "Devotions",
+    "evidence": [
+      {
+        "source": "Our Lady of Mount Carmel Promise",
+        "quote": "Whosoever dies wearing this scapular shall not suffer eternal fire."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "John 11:25–26",
+        "quote": "The one who believes in me will live, even though they die..."
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Eucharistic Adoration in Perpetual Chapels",
+    "text": "Some chapels maintain 24/7 exposition of the Blessed Sacrament for prayer and worship.",
+    "category": "Liturgy",
+    "evidence": [
+      {
+        "source": "Canon Law #937",
+        "quote": "The Blessed Sacrament should be reserved in a part of the church which is prominent, conspicuous, beautifully decorated, and suitable for prayer."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Acts 17:24",
+        "quote": "The God who made the world... does not live in temples built by human hands."
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Holy Face Medal",
+    "text": "Wearing the image of the Holy Face of Jesus as a medal is believed to protect against blasphemy and evil.",
+    "category": "Sacramentals",
+    "evidence": [
+      {
+        "source": "Devotion of the Holy Face",
+        "quote": "By this Holy Face, the evil will be scattered and justice upheld."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "1 Samuel 16:7",
+        "quote": "People look at the outward appearance, but the Lord looks at the heart."
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Prayer for the Dying with Apostolic Pardon",
+    "text": "A priest may impart a plenary indulgence to the dying to forgive all punishment due to sin.",
+    "category": "Penance",
+    "evidence": [
+      {
+        "source": "Manual of Indulgences #28",
+        "quote": "The Apostolic Pardon... grants full remission of temporal punishment."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Luke 23:43",
+        "quote": "Jesus answered him, 'Truly I tell you, today you will be with me in paradise.'"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Consecration of a Nation to Mary",
+    "text": "Popes and bishops consecrate entire countries to the Immaculate Heart of Mary.",
+    "category": "Mariology",
+    "evidence": [
+      {
+        "source": "Fatima Consecrations",
+        "quote": "We entrust and consecrate ourselves and our country to your Immaculate Heart, O Mary."
+      }
+    ],
+    "biblical_conflict": [
+      {
+        "verse": "Psalm 33:12",
+        "quote": "Blessed is the nation whose God is the Lord..."
+      }
+    ]
+  }
+]
