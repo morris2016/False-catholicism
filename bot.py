@@ -30,7 +30,10 @@ def save_skipped_ids(skipped_ids):
 @client.event
 async def on_ready():
     print(f"✅ Logged in as {client.user}")
+    print("🚀 Starting post_catholic task loop...")
     post_catholic.start()
+    await post_catholic()  # <-- this will run once immediately
+
 
 @tasks.loop(hours=POST_INTERVAL_HOURS)
 async def post_catholic():
