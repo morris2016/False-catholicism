@@ -32,7 +32,7 @@ async def on_ready():
     print(f"✅ Logged in as {client.user}")
     print("🚀 Starting post_catholic task loop...")
     post_catholic.start()
-    await post_catholic()  # <-- this will run once immediately
+    #await post_catholic()  # <-- this will run once immediately
 
 
 @tasks.loop(hours=POST_INTERVAL_HOURS)
@@ -98,8 +98,8 @@ Quote: "{quote}"
         commentary = f"⚠️ OpenAI error: {e}"
 
     # 📬 Compose message
-    doctrine_msg = f"📜 **Doctrine #{doctrine_id}: {title}**\n\n\"{text}\"\n\n📖 *{source}*:\n> {quote}"
-    commentary_msg = f"--------------------------------------------------------------------\n   Heresy Detector detecting....\n----------------------------------------------------------------------\n🧠 **Commentary:**\n{commentary}"
+    doctrine_msg = f"--------------------------------------------------------------------\n   Heresy Detector detecting....\n----------------------------------------------------------------------\n📜 **Doctrine #{doctrine_id}: {title}**\n\n\"{text}\"\n\n📖 *{source}*:\n> {quote}"
+    commentary_msg = f"🧠 **Commentary:**\n{commentary}"
 
     channel = client.get_channel(CHANNEL_ID)
     await channel.send(doctrine_msg[:2000])
